@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparision of The Nations : Are Nations Converging or Diverging
+title: Comparision of The Nations - Are Nations Converging or Diverging
 date: 2019-10-31
 ---
 
