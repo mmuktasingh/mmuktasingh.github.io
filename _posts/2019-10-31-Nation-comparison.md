@@ -34,6 +34,7 @@ Results:
 - ![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy_cluster.PNG?raw=true){:height="20%" width="35%"}
 
 
+
 2. Change in Population over three decades
 - Plots above showcases the change in population for the seven countries with time.
 - It is been observed that Indonesia has grown 54% over the period.
@@ -43,6 +44,7 @@ Results:
 - ![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Pop.PNG?raw=true)
 
 
+
 3. Economy : Clusters in 2010's
 - We can see from the map above that most countries share similar distance values relative to each other. 
 - This means countries are converging.
@@ -50,11 +52,13 @@ Results:
 - ![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy2.PNG?raw=true)
 
 
+
 4. Distance between countries is converging with time
 - As shown from the three plots we can see clusters or dots are coming closer together.
 - These dots represents countries.
 - Similar trends are observed in energy and economic categories
 - ![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Distance%20between%20countries%20converging%20with%20time.PNG?raw=true)
+
 
 
 Conclusions:
