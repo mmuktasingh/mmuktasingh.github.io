@@ -32,7 +32,7 @@ Results:
 - France has had a very consistent economy the last 30+ years.
 - Vietnam and South Africa remain in different clusters as of 2010s
 
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy_cluster.PNG?raw=true){:height="50%" width="50%"}
+- ![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy_cluster.PNG?raw=true){:height="20%" width="20%"}
 
 
 2. Change in Population over three decades
@@ -50,7 +50,7 @@ Results:
 - This means countries are converging.
 - A couple of outliers exist such as USA, China India and Russian to some extent.
 
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy2.PNG?raw=true)
+- ![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy2.PNG?raw=true)
 
 
 4. Distance between countries is converging with time
@@ -58,7 +58,7 @@ Results:
 - These dots represents countries.
 - Similar trends are observed in energy and economic categories
 
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Distance%20between%20countries%20converging%20with%20time.PNG?raw=true)
+- ![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Distance%20between%20countries%20converging%20with%20time.PNG?raw=true)
 
 
 Conclusions:
