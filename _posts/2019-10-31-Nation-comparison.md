@@ -8,11 +8,10 @@ This blog is about one of my project to perform Exploratory Data Analysis on Com
 Hans Rosling gave a famous TED talk in 2007, “The Best Stats You’ve Ever Seen”. Rosling was a Professor of International Health at the Karolinska Institutet in Stockholm, Sweden and founded the Gapminder Foundation alongwith his Son , Ola.They included a number of datasets on the Gapminder website which we have used in our analysis.
 We designed our analysis to compare decade-over-decade using Gap minder data set to compare nations across a variety of different categories(such as education,health,GDP,Gini index,technology,Energy,Population etc)
 
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Gapminder_bubbles.PNG?raw=true){:height="60%" width="70%"}
+![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Gapminder_bubbles.PNG?raw=true){:height="50%" width="90%"}
 
 
 Methodology:
-
 - Gathered data from the internet using gap-minder hyperlinks
 - Data frames were created using Python code
 - 24 separate files were created (8X3)
@@ -31,7 +30,7 @@ Results:
 - Japan and France by 2010's belong to the same cluster.
 - France has had a very consistent economy the last 30+ years.
 - Vietnam and South Africa remain in different clusters as of 2010s
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy_cluster.PNG?raw=true){:height="60%" width="60%"}
+![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy_cluster.PNG?raw=true){:height="40%" width="50%"}
 
 
 2. Change in Population over three decades
@@ -40,13 +39,15 @@ Results:
 - Whereas Japan remained consistent in population growth over the decades.
 - US has shown significant growth of 21.85% over the last 10years.
 - Rest all countries have been consistently growing together over the time
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Pop.PNG?raw=true){:height="60%" width="60%"}
+![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Pop.PNG?raw=true){:height="40%" width="50%"}
+
 
 3. Economy : Clusters in 2010's
 - We can see from the map above that most countries share similar distance values relative to each other. 
 - This means countries are converging.
 - A couple of outliers exist such as USA, China India and Russian to some extent.
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy2.PNG?raw=true){:height="60%" width="60%"}
+![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy2.PNG?raw=true){:height="40%" width="50%"}
+
 
 4. Distance between countries is converging with time
 - As shown from the three plots we can see clusters or dots are coming closer together.
@@ -64,12 +65,16 @@ Conclusions:
 - Clustering is a very powerful technique 
 - It can easily be run and yield incorrect clusters if insufficient precautions are taken.
 
+
 In future versions of this project I would like to expand my dataset to further back than the last three decades and look at the other socio-economic datasets too.
+
 
 References:
 
 https://www.gapminder.org/
 https://github.com/syntagmatic/gapminder-csv/blob/master/gapminder.csv
+
+
 
 
 Special thanks to project teammates: Marc Arias & Abdalla Abdelmoaty
