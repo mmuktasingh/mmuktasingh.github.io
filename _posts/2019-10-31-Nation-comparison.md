@@ -12,7 +12,7 @@ We designed our analysis to compare decade-over-decade using Gap minder data set
 
 
 Methodology:
----------------------------------------------------------------------------------------------------------
+
 - Gathered data from the internet using gap-minder hyperlinks
 - Data frames were created using Python code
 - 24 separate files were created (8X3)
@@ -25,14 +25,25 @@ Methodology:
 
 
 Results:
----------------------------------------------------------------------------------------------------------
 
-Economy Clusters over three decades:-
-- Indonesia and United States economy by 2010's are in the same cluster.
+Economy Clusters over three decades
+
+- Indonesia and United States economy by 2010's are in the same cluster.      ![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy_cluster.PNG?raw=true)
 - Japan and France by 2010's belong to the same cluster.
 - France has had a very consistent economy the last 30+ years.
 - Vietnam and South Africa remain in different clusters as of 2010s
 
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy_cluster.PNG?raw=true)
+
+
+Change in Population over three decades
+
+- Plots above showcases the change in population for the seven countries with time.
+- It is been observed that Indonesia has grown 54% over the period.
+- Whereas Japan remained consistent in population growth over the decades.
+- US has shown significant growth of 21.85% over the last 10years.
+- Rest all countries have been consistently growing together over the time
+
+
+
 
 
