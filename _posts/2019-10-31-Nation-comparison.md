@@ -32,7 +32,7 @@ Results:
 - France has had a very consistent economy the last 30+ years.
 - Vietnam and South Africa remain in different clusters as of 2010s
 
-- ![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy_cluster.PNG?raw=true){:height="30%" width="50%"}
+- ![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy_cluster.PNG?raw=true){:height="30%" width="40%"}
 
 
 2. Change in Population over three decades
