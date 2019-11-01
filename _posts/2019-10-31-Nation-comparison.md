@@ -31,7 +31,7 @@ Results:
 - France has had a very consistent economy the last 30+ years.
 - Vietnam and South Africa remain in different clusters as of 2010s
 
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy_cluster.PNG?raw=true){:height="20%" width="80%"}
+![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy_cluster.PNG?raw=true)
 
 
 2. Change in Population over three decades
@@ -41,21 +41,21 @@ Results:
 - US has shown significant growth of 21.85% over the last 10years.
 - Rest all countries have been consistently growing together over the time
 
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Pop.PNG?raw=true){:height="20%" width="80%"}
+![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Pop.PNG?raw=true)
 
 
 3. Economy : Clusters in 2010's
 - We can see from the map above that most countries share similar distance values relative to each other. 
 - This means countries are converging.
 - A couple of outliers exist such as USA, China India and Russian to some extent.
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy2.PNG?raw=true){:height="30%" width="50%"}
+![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Economy2.PNG?raw=true)
 
 
 4. Distance between countries is converging with time
 - As shown from the three plots we can see clusters or dots are coming closer together.
 - These dots represents countries.
 - Similar trends are observed in energy and economic categories
-![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Distance%20between%20countries%20converging%20with%20time.PNG?raw=true){:height="20%" width="80%"}
+![test image size](https://github.com/mmuktasingh/mmuktasingh.github.io/blob/master/images/Distance%20between%20countries%20converging%20with%20time.PNG?raw=true)
 
 
 Conclusions:
