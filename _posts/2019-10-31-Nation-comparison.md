@@ -76,8 +76,8 @@ In future versions of this project I would like to expand my dataset to further 
 
 References:
 
-https://www.gapminder.org/
-https://github.com/syntagmatic/gapminder-csv/blob/master/gapminder.csv
+- https://www.gapminder.org/
+- https://github.com/syntagmatic/gapminder-csv/blob/master/gapminder.csv
 
 
 
